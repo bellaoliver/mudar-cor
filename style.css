@@ -1,0 +1,19 @@
+body, html{
+    margin:0;
+    padding: 0;
+    height:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:Garamond, serif;
+
+}
+.trocador-de-cores{
+    text-align: center;
+    padding: 20px;
+    border: 1px solid rgb(2, 2, 2);
+    border-radius: 1px;
+    
+
+}
+
